@@ -25,7 +25,7 @@ Remore is a free, opensource selfhostable textchat, voice and video chat.
 | Repo name | Brief description
 | :--- | :--- |
 | [Server](https://github.com/remore-chat/server) | REST API + Gateway
-| [MediaNode](https://github.com/remore-chat/voice-node) | Server that processes voice and video communication | 
+| [MediaNode](https://github.com/remore-chat/media-node) | Server that processes voice and video communication | 
 | [Client](https://github.com/remore-chat/client) | Tauri Client |
 
 ### Contribute
